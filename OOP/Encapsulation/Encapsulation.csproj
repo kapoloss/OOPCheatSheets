@@ -50,6 +50,7 @@
         <Compile Include="ImmutableObjects.cs" />
         <Compile Include="Interface&amp;Encapsulation.cs" />
         <Compile Include="InternalStateManagement.cs" />
+        <Compile Include="LazyEvaluation.cs" />
         <Compile Include="LazyInitialization.cs" />
         <Compile Include="NestedClass.cs" />
         <Compile Include="PartialClasses&amp;Encapsulation.cs" />
